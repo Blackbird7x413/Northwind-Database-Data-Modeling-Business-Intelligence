@@ -33,7 +33,7 @@ Building a clean, scalable Data Model directly in Power BI ensures optimal relat
 * **Relational Schema:** Constructed a Star / Snowflake Schema establishing 1-to-Many relationships between Fact tables (`orders`, `order-details`) and Dimension tables (`customers`, `employees`, `products`, `categories`, `suppliers`, `shippers`, `regions`, `territories`).
 * **Relational Integrity:** Managed foreign key mappings directly within Power BI Model View to maintain high query efficiency.
 
-![Northwind Relational Data Model Architecture](Desktop Screenshot 2026.10.20 - 16.57.44.24.png)
+![Northwind Relational Data Model Architecture](12.png)
 
 ---
 
@@ -46,7 +46,7 @@ The developed Power BI interface tracks executive revenue streams, sales perform
 3. **Category Insights:** Visualizes revenue distribution across product lines (`Beverages`, `Dairy Products`, `Confections`, `Meat/Poultry`).
 4. **Logistics & Targets:** Evaluates target achievement percentage alongside on-time shipping rates.
 
-![Northwind Power BI Dashboard View](11.jpg)
+![Northwind Power BI Dashboard View](11.png)
 
 ---
 
